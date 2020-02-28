@@ -1,0 +1,36 @@
+
+Testing key1:  a sample key
+---------------------------
+original :  this is a test of the encoding algorithm
+encoded  :  uajf0ux+f9uxtg0ak+ygf3fasaitsf!tmtedneml`y	
+decoded  :  hy	
+
+Testing key2:  a better encoding key
+------------------------------------
+original :  this is a test of the encoding algorithm
+encoded  :  ujnm4nk%o#iibh'zk9ujj4ysutrlck)osrtqjvmg`y	  
+decoded  :  hy	
+
+Testing key1:  a sample key
+---------------------------
+original :  work expands to fit the time available
+encoded  :  xhsx0qcafmel!ge,kty9uaf-jurp%zwtjyqnqpmg`y	  
+decoded  :  hy	
+
+Testing key2:  a better encoding key
+------------------------------------
+original :  work expands to fit the time available
+encoded  :  xqwe4jpuoqsw)hv+khu"yby%lnah/eeopwfamg g`y	  
+decoded  :  hy	
+
+Testing key1:  a sample key
+---------------------------
+original :  a short phrase
+encoded  :  b3tuedy+ugsttrv+khu"yby%lnah/eeopwfamg g`y	  
+decoded  :  hy	
+
+Testing key2:  a better encoding key
+------------------------------------
+original :  a short phrase
+encoded  :  b"xbiwl%dkgebsv+khu"yby%lnah/eeopwfamg g`y	  
+decoded  :  hy	
